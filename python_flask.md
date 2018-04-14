@@ -18,7 +18,7 @@ sudo yum upgrade python-setuptools
 sudo yum install python-pip python-wheel
 ```
 
-# For ubutu
+# For ubuntu
 
 ```
 sudo apt-get install python-pip
